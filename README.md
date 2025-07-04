@@ -6,8 +6,8 @@ Este projeto implementa uma tabela hash especializada para deduplicação de cli
 Principais funcionalidades:
 
 - **Remoção automática de duplicatas:** Clientes com o mesmo CPF não são inseridos novamente.
-- **Geração de dados de teste:** Crie datasets realistas com quantidade e percentual de duplicatas configuráveis.
-- **Estatísticas detalhadas:** Veja colisões, fator de carga e distribuição dos dados na tabela hash.
-- **Interface gráfica:** Gere, processe, busque e remova clientes facilmente através de uma interface amigável (Tkinter).
+- **Geração de dados de teste:** Cria datasets realistas com quantidade e percentual de duplicatas configuráveis.
+- **Estatísticas detalhadas:** colisões, fator de carga e distribuição dos dados na tabela hash.
+- **Interface gráfica:** Gera, processa, busca e remove clientes facilmente através de uma interface simples (Tkinter).
 
 O projeto demonstrar conceitos de hashing, colisão, redimensionamento, e deduplicação eficiente de dados.
