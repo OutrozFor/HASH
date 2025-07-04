@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from Hashing import criar_dataset_teste, processar_dataset, salvar_csv, TabelaHashCPF
 import random
-# Importa as funções necessárias do módulo juju.py
+# Importa as funções necessárias do módulo Hashing.py
 # Variáveis globais para manter a tabela hash e clientes únicos
 tabela = None
 clientes_unicos = []
